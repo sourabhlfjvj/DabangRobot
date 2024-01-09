@@ -5,7 +5,7 @@ class Config(object):
     API_ID = "27777452"
     API_HASH = "140003cf869abdd2dfcf3ba27edf7ec4"
 
-    CASH_API_KEY = "V3GINZ5GSBYKPMF1"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    CASH_API_KEY = "D31QL4STIWPSLALL"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = "postgres://ovkhfxkp:d6SvqcZmnYmhLQBqGVmt9AMyB0DzqXPS@isilo.db.elephantsql.com/ovkhfxkp"  # A sql database url from elephantsql.com
 
@@ -20,7 +20,7 @@ class Config(object):
 
     TOKEN = ""  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = "G1VE375UCXVX"  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = "MGUSGI8E7QEP"  # Get this value from https://timezonedb.com/api
 
     OWNER_ID = "6156380294"  # User id of your telegram account (Must be integer)
 
